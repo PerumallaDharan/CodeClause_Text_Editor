@@ -35,7 +35,7 @@ filvar=None
 # Text Area
 # Adding the text area
 textarea=Text(root,undo=True,wrap=None,height=root.winfo_height(),width=root.winfo_width())
-textarea.grid(row=0,sticky=N + E+ S + W)
+textarea.grid(row=0,sticky= N + E + S + W )
 # Making the text area auto resizable
 root.grid_rowconfigure(0, weight=1)
 root.grid_columnconfigure(0, weight=1)
