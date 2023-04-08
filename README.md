@@ -33,9 +33,9 @@
 - Open a terminal or command prompt.
 - Clone the repository  https://github.com/PerumallaDharan/CodeClause_Text_Editor.git
 - Run the program using the command 
-```bash
-python main.py
-```
+  ```bash
+  python main.py
+  ```
 
 
 ## User Interface
