@@ -18,7 +18,15 @@
 - Find word count
 - About section
 
+## Prerequisites
+- In order to run this script, make sure you have the following modules installed:
+  - Tkinter
+    - You can install using the following command 
+        ```
+            pip install tk
+        ```
 
+        
 ## Getting Started
 - To run the program, follow these steps:
 - Install Python 3.x, if not already installed.
