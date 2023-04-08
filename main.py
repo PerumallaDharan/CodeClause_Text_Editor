@@ -16,8 +16,8 @@ import time
 
 # Creating and initializing the window
 root = Tk()
-root.title("NText")
-root.geometry("300x300")
+root.title("TEXT_EDITOR")
+root.geometry("800x500")
 root.resizable(height=None,width=None)
  
  
